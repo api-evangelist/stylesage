@@ -47,7 +47,7 @@ tags:
 - Fashion
 - Market Intelligence
 - Analytics
-- Computer-Vision
+- Computer Vision
 - E-Commerce
 tags_raw:
 - Company
@@ -57,6 +57,7 @@ tags_raw:
 - Analytics
 - Computer Vision
 - E-commerce
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
